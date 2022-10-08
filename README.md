@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/CharleyGordon/pricing-component-with-toggle-master
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://charleygordon.github.io/pricing-component-with-toggle-master/
 
 ## My process
 
